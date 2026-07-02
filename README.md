@@ -1,4 +1,4 @@
-![image](https://github.com/user-MINDELOXattachments/assets/4403b7ef-7349-4f22-bedc-39466593a037)
+![image](https://github.com/user-attachments/assets/a197eca6-f4dc-44a3-8d8a-de051b5a67af)
 
 <!--
 **MINDELOX/MINDELOX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
