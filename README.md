@@ -1,6 +1,3 @@
-<p align="center">
-  ![](https://komarev.com/ghpvc/?username=MINDELOX)
-</p>
 
 
 ![](https://komarev.com/ghpvc/?username=MINDELOX&color=orange)
