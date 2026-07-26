@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a197eca6-f4dc-44a3-8d8a-de051b5a67af)
+
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31lmampyatbfvedtwo4nkxyusuge&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31lmampyatbfvedtwo4nkxyusuge&cover_image=true&theme=natemoo-re&show_offline=true&background_color=562700&interchange=true&profanity=false&hide_remaster=false&bar_color=ffb84c&bar_color_cover=false">
