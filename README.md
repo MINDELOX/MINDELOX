@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://komarev.com" alt="Profile Views" />
+</p>
 
 ![](https://komarev.com/ghpvc/?username=MINDELOX&color=orange)
 
