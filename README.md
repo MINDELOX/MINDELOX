@@ -3,3 +3,6 @@
 
 ![image](https://github.com/user-attachments/assets/c3991425-a23b-4758-ab5d-2e3c02c15698)
 
+<div align="center">
+   
+**[𝖆𝖙𝖆 𝖇𝖔𝖔𝖐]([https://snowe-amy.atabook.org](https://no-1.atabook.org))**
