@@ -5,4 +5,4 @@
 
 <div align="center">
    
-**[𝖆𝖙𝖆 𝖇𝖔𝖔𝖐](https://v-valentine.atabook.org))**
+**[𝖆𝖙𝖆 𝖇𝖔𝖔𝖐](https://v-valentine.atabook.org)**
