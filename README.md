@@ -1,7 +1,7 @@
 
 <p align="center"> <img width="60" src="https://komarev.com/ghpvc/?username=MINDELOX&label=𝔨𝔢𝔢𝔭𝔢𝔯𝔰&color=78192F">
 
-![image](https://github.com/user-attachments/assets/1db05a0e-c09d-4ece-af4f-14a77c134000)
+![image](https://github.com/user-attachments/assets/41531a52-56a9-4e53-8a11-23da58533dbe)
 
 <div align="center">
    
