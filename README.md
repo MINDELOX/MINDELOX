@@ -1,5 +1,5 @@
 
-<p align="center"> <img width="60" src="https://komarev.com/ghpvc/?username=MINDELOX&label=𝔨𝔢𝔢𝔭𝔢𝔯𝔰&color=31060E">
+<p align="center"> <img width="60" src="https://komarev.com/ghpvc/?username=MINDELOX&label=𝔍𝔬𝔢𝔰𝔱𝔞𝔯𝔰&color=8F8BBA">
 
 ![image](https://github.com/user-attachments/assets/15e87cd8-81c6-414b-b385-f4aaeb157ce0)
 
