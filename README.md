@@ -2,4 +2,4 @@
 
 <div align="center">
    
-**[αƚα Ⴆσσƙ](https://josephj-star.atabook.org)**
+**[αƚα Ⴆσσƙ](https://mindelox.atabook.org)**
